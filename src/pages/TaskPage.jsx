@@ -8,7 +8,7 @@ function TaskPage() {
     const description = searchParamns.get("description");
     const navigate = useNavigate();
     return (
-        <div className="h-screen w-screen bg-slate-500 p-6">
+        <div className="h-screen w-screen flex bg-slate-500 p-6">
             <div className="w-[500px] mx-auto space-y-3">
                 <div className="flex justify-center relative mb-6">
                     <button 
