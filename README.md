@@ -1,7 +1,7 @@
-Gerenciador de Tarefas React + Tailwind
-Este é um projeto desenvolvido durante o curso de React, com o objetivo de criar um gerenciador de tarefas simples utilizando React, Tailwind CSS e Vite.​
+# Gerenciador de Tarefas React + Tailwind
+## Este é um projeto desenvolvido durante o curso de React, com o objetivo de criar um gerenciador de tarefas simples utilizando React, Tailwind CSS e Vite.​
 
-🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 React​
 
 Vite​
@@ -10,7 +10,7 @@ Tailwind CSS​
 
 ESLint​
 
-💻 Funcionalidades
+### 💻 Funcionalidades
 Adicionar novas tarefas​
 
 Marcar tarefas como concluídas​
@@ -19,7 +19,7 @@ Remover tarefas​
 
 Interface responsiva e moderna​
 
-🧑‍💻 Como Executar o Projeto
+### 🧑‍💻 Como Executar o Projeto
 Clone o repositório:​
 
 bash
@@ -50,16 +50,15 @@ Abra o navegador e acesse:​
 http://localhost:5173
 ```
 
-🌐 Demonstração
+### 🌐 Demonstração
 Você pode visualizar o projeto em funcionamento através do seguinte link:​
 
 curso-de-react-ten-navy.vercel.app​
 
-📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 bash
-Copiar
-Editar
-├── public/
+```
+├── public
 ├── src/
 │   ├── components/
 │   ├── App.jsx
@@ -68,6 +67,7 @@ Editar
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.js
+```
 📝 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.​
 
